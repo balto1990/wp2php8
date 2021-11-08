@@ -7,3 +7,5 @@ define('SITE_ROOT', 'http://localhost/wp2php8/'); //url a roothoz
 require_once(SERVER_ROOT . 'controllers/' . 'router.php'); //router.php elérése
 
 ?>
+
+<?php phpinfo(); ?>
