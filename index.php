@@ -6,4 +6,7 @@ define('SITE_ROOT', 'http://localhost/wp2php8/'); //url a roothoz
 
 require_once(SERVER_ROOT . 'controllers/' . 'router.php'); //router.php elérése
 
+phpinfo(); //SOAP használata a szerveren és a kliensen
+
 ?>
+
